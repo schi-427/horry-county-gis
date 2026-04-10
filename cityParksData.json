@@ -1,0 +1,275 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1201,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.057441852747,
+                    33.8500964569628
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1201,
+                "NAME": "COLLINS PARK",
+                "GlobalID": "78293de8-c7dd-46b5-966c-4e9b5825bb89",
+                "LatDD": 33.8500898949187,
+                "LongDD": -79.0574395252083,
+                "LatDMS": "33º 51' 0\" N",
+                "LongDMS": "79º 3' 27\" W",
+                "created_user": "stwECU1122",
+                "created_date": 1773760226769,
+                "last_edited_user": "stwECU1122",
+                "last_edited_date": 1773760226769,
+                "TYPE": "NEIGHBORHOOD PARK",
+                "ADDRESS": "1001 SIXTEENTH AVE",
+                "AREA_ACRES": "+/- 7.66 ACRES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1202,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0502730658944,
+                    33.8542597550184
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1202,
+                "NAME": "SHERWOOD FOREST PARK",
+                "GlobalID": "736d38ef-2181-458e-8412-3c06808cf354",
+                "LatDD": 33.8542531918302,
+                "LongDD": -79.0502707403445,
+                "LatDMS": "33º 51' 15\" N",
+                "LongDMS": "79º 3' 1\" W",
+                "created_user": "stwECU1122",
+                "created_date": 1773760226769,
+                "last_edited_user": "stwECU1122",
+                "last_edited_date": 1773760226769,
+                "TYPE": "NEIGHBORHOOD PARK",
+                "ADDRESS": "1601 SHERWOOD DR",
+                "AREA_ACRES": "+/- 4.88 ACRES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1203,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0699120751541,
+                    33.8437707171156
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1203,
+                "NAME": "BILLY GARDNER RECREATION COMPLEX",
+                "GlobalID": "d0a051b4-5e2a-4781-9b3c-b76788ba21f7",
+                "LatDD": 33.844442820741,
+                "LongDD": -79.068869598913,
+                "LatDMS": "33º 50' 40\" N",
+                "LongDMS": "79º 4' 8\" W",
+                "created_user": "stwECU1122",
+                "created_date": 1773760226769,
+                "last_edited_user": "stwECU1122",
+                "last_edited_date": 1773760226769,
+                "TYPE": "COMMUNITY PLAY-FIELD",
+                "ADDRESS": "1515 MILL POND RD",
+                "AREA_ACRES": "+/- 59.25 ACRES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1204,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0774905735639,
+                    33.8389884859127
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1204,
+                "NAME": "SMITH JONES RECREATION COMPLEX",
+                "GlobalID": "1d6f50f6-f30b-412b-b5d8-c89e495ce2e3",
+                "LatDD": 33.8389819269475,
+                "LongDD": -79.0774882404416,
+                "LatDMS": "33º 50' 20\" N",
+                "LongDMS": "79º 4' 39\" W",
+                "created_user": "stwECU1122",
+                "created_date": 1773760226769,
+                "last_edited_user": "stwECU1122",
+                "last_edited_date": 1773760226769,
+                "TYPE": "NEIGHBORHOOD PARK",
+                "ADDRESS": "1710 SMITH JONES ST",
+                "AREA_ACRES": "+/- 17.52 ACRES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1205,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0439595984199,
+                    33.8286868173787
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1205,
+                "NAME": "RIVERFRONT PARK",
+                "GlobalID": "e5cd118d-082a-4416-b6e0-2c0402370ef1",
+                "LatDD": 33.8286802597639,
+                "LongDD": -79.0439572758343,
+                "LatDMS": "33º 49' 43\" N",
+                "LongDMS": "79º 2' 38\" W",
+                "created_user": "stwECU1122",
+                "created_date": 1773760226769,
+                "last_edited_user": "stwECU1122",
+                "last_edited_date": 1773760226769,
+                "TYPE": "NEIGHBORHOOD PARK",
+                "ADDRESS": "6 ELM ST",
+                "AREA_ACRES": "+/- 7.46 ACRES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1206,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0583503507751,
+                    33.8287988604207
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1206,
+                "NAME": "CONWAY DOG PARK",
+                "GlobalID": "61e2be05-f1ce-4a85-94b9-a69e482e158d",
+                "LatDD": null,
+                "LongDD": null,
+                "LatDMS": null,
+                "LongDMS": null,
+                "created_user": "stwECU1122",
+                "created_date": 1773760226769,
+                "last_edited_user": "stwECU1122",
+                "last_edited_date": 1773760226769,
+                "TYPE": "NEIGHBORHOOD PARK",
+                "ADDRESS": "1700 NEW RD",
+                "AREA_ACRES": "+/- 7.01 ACRES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1207,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0469356701793,
+                    33.8361465852986
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1207,
+                "NAME": "KINGSTON PARK",
+                "GlobalID": "b7c0c000-2995-44e1-ab46-094d2c1aae06",
+                "LatDD": null,
+                "LongDD": null,
+                "LatDMS": null,
+                "LongDMS": null,
+                "created_user": "stwECU1122",
+                "created_date": 1773760226769,
+                "last_edited_user": "stwECU1122",
+                "last_edited_date": 1773760226769,
+                "TYPE": "POCKET PARK",
+                "ADDRESS": "341 MAIN ST",
+                "AREA_ACRES": "\u003c 1 ACRE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 1208,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0461003139128,
+                    33.8349034764901
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1208,
+                "NAME": "ROBERT MILLS GARDEN",
+                "GlobalID": "10873ee2-3ddd-4b43-be10-a6df107c8990",
+                "LatDD": null,
+                "LongDD": null,
+                "LatDMS": null,
+                "LongDMS": null,
+                "created_user": "stwECU1122",
+                "created_date": 1773760226769,
+                "last_edited_user": "stwECU1122",
+                "last_edited_date": 1773760226769,
+                "TYPE": "POCKET PARK",
+                "ADDRESS": "229 MAIN ST",
+                "AREA_ACRES": "\u003c 1 ACRE"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2008,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0293222417498,
+                    33.8337900523183
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2008,
+                "NAME": "WACCAMAW RIVER PARK",
+                "GlobalID": "c837919e-d589-4389-87a4-d3029086aa27",
+                "LatDD": null,
+                "LongDD": null,
+                "LatDMS": null,
+                "LongDMS": null,
+                "created_user": "stwECU1122",
+                "created_date": 1773760226769,
+                "last_edited_user": "stwECU1122",
+                "last_edited_date": 1773760226769,
+                "TYPE": "COMMUNITY PARK",
+                "ADDRESS": "1050 DEPOT RD",
+                "AREA_ACRES": "+/- 237 ACRES"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2408,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.0466184689452,
+                    33.8347056297464
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2408,
+                "NAME": "SCARBOROUGH ALLEY GARDEN WALK",
+                "GlobalID": "631693a7-47b8-48c4-b58a-215c4b0613e5",
+                "LatDD": null,
+                "LongDD": null,
+                "LatDMS": null,
+                "LongDMS": null,
+                "created_user": "stwECU1122",
+                "created_date": 1773760226769,
+                "last_edited_user": "stwECU1122",
+                "last_edited_date": 1773760226769,
+                "TYPE": "POCKET PARK",
+                "ADDRESS": "1023 THIRD AVE",
+                "AREA_ACRES": "\u003c 1 ACRE"
+            }
+        }
+    ]
+}

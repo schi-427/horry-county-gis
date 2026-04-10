@@ -1,0 +1,7 @@
+Parcels.geojson
+Address_Points.geojson
+*.qgz~
+*.qgs~
+*.gpkg-wal
+*.gpkg-shm
+*.gpkg-journal
